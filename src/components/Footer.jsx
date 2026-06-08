@@ -42,7 +42,7 @@ const Footer = () => {
             <ul className="space-y-3">
               <li>
                 <a
-                  href="mailto:code.yukimori.dev@gmail.com"
+                  href="mailto:yukimori.dev@gmail.com"
                   className="text-sm text-gray-400 hover:text-white transition-colors flex items-center gap-2"
                   aria-label="Email Yuki Mori"
                 >
@@ -52,12 +52,12 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="tel:+916296554939"
+                  href="tel:+816296554939"
                   className="text-sm text-gray-400 hover:text-white transition-colors flex items-center gap-2"
                   aria-label="Call Yuki Mori"
                 >
                   <Phone className="w-4 h-4" aria-hidden="true" />
-                  +916296554939
+                  +816296554939
                 </a>
               </li>
             </ul>
@@ -126,7 +126,7 @@ const Footer = () => {
                 <Linkedin className="w-5 h-5" aria-hidden="true" />
               </a>
               <a
-                href="mailto:code.yukimori.dev@gmail.com"
+                href="mailto:yukimori.dev@gmail.com"
                 className="text-gray-400 hover:text-white transition-colors"
                 aria-label="Email"
               >

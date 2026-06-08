@@ -12,17 +12,17 @@ import {
 import { Link } from "react-router-dom";
 import { useState } from "react";
 import useSWR from "swr";
-import cvPdf from "@/assets/files/cv_pdf/Yuki_Carter(CV).pdf";
+import cvPdf from "@/assets/files/cv_pdf/Yukimori(CV).pdf";
 
 const fetcher = (url) => fetch(url).then((res) => res.json());
 
 const Home = () => {
   const [copied, setCopied] = useState(false);
-  const email = "code.yukimori.dev@gmail.com";
-  const whatsappNumber = "+916296554939";
+  const email = "yukimori.dev@gmail.com";
+  const whatsappNumber = "+816296554939";
 
   const { data: githubData } = useSWR(
-    "https://api.github.com/users/niladri-1",
+    "https://api.github.com/am-ssd",
     fetcher,
     {
       revalidateOnFocus: false,
@@ -167,7 +167,7 @@ const Home = () => {
               transition={{ delay: 0.8 }}
             >
               <span className="text-base sm:text-lg font-semibold">
-                {/* {displayRepos} */}5
+                {/* {displayRepos} */}35
               </span>
               <span className="text-xs sm:text-sm text-gray-400">
                 GitHub Projects

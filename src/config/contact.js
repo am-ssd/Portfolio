@@ -5,8 +5,8 @@
 
 export const CONTACT_INFO = {
   email: 'yukimori.dev@gmail.com',
-  phone: '+916296554939',
-  whatsapp: '+916296554939',
+  phone: '+816296554939',
+  whatsapp: '+816296554939',
   location: 'Warsaw, West Bengal, Poland',
   timezone: 'IST (UTC+5:30)',
   github: 'https://github.com/portfolio',

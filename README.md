@@ -173,9 +173,9 @@ This portfolio is fully SEO-optimized:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-code.niladri%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:code.yukimori.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-niladri1-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/niladri1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-niladri1.vercel.app-orange?style=for-the-badge&logo=vercel)](https://niladri1.vercel.app)
+[![Email](https://img.shields.io/badge/Email-yukimori.dev%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:yukimori.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yukimori-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yukimori)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yukimori.vercel.app-orange?style=for-the-badge&logo=vercel)](https://yukimori.vercel.app)
 
 </div>
 
