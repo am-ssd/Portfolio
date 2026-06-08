@@ -96,15 +96,15 @@ const skills = [
       { name: "Postman", icon: <PostmanLogo /> },
     ],
   },
-  // {
-  //   category: "Operating Systems",
-  //   icon: <Terminal className="w-6 h-6" />,
-  //   items: [
-  //     { name: "Windows", icon: <WindowsLogo className="w-4 h-4" /> },
-  //     { name: "Ubuntu", icon: <UbuntuLogo className="w-4 h-4" /> },
-  //     { name: "Linux", icon: <LinuxLogo className="w-4 h-4" /> },
-  //   ],
-  // },
+  {
+    category: "Artifical Inteligence",
+    icon: <Terminal className="w-6 h-6" />,
+    items: [
+      { name: "AI Saas Platforms", },
+      { name: "AI API Integration", },
+      { name: "RAG",},
+    ],
+  },
   {
     category: "Soft Skills",
     icon: <Brain className="w-6 h-6" />,

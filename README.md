@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://niladri1.vercel.app/og-image.png" alt="Yuki Mori Portfolio Preview" width="80%" style="border-radius: 12px;" />
+<!-- <img src="https://niladri1.vercel.app/og-image.png" alt="Yuki Mori Portfolio Preview" width="80%" style="border-radius: 12px;" /> -->
 
 </div>
 

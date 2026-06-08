@@ -76,7 +76,7 @@ const Home = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          I design & code for web
+          Full Stack & AI Engineer
         </motion.h1>
 
         <motion.p
@@ -85,7 +85,7 @@ const Home = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
         >
-          Shopify Developer specializing in Full Stack Development with
+          AI Development and Full Stack Development with
           expertise in React.js, Node.js and modern Web Technologies.
         </motion.p>
 
