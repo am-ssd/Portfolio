@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kelvin Carter — Portfolio 🚀
+# Yuki Mori — Portfolio 🚀
 
 [![Website](https://img.shields.io/website?label=Live%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fniladri1.vercel.app)](https://niladri1.vercel.app)
 [![GitHub followers](https://img.shields.io/github/followers/niladri-1?logo=github&style=for-the-badge)](https://github.com/niladri-1)
@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://niladri1.vercel.app/og-image.png" alt="Kelvin Carter Portfolio Preview" width="80%" style="border-radius: 12px;" />
+<img src="https://niladri1.vercel.app/og-image.png" alt="Yuki Mori Portfolio Preview" width="80%" style="border-radius: 12px;" />
 
 </div>
 

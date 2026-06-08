@@ -29,7 +29,7 @@ const Footer = () => {
           <div className="space-y-4">
             <Link to="/" className="flex items-center space-x-3">
               <Code2 className="w-8 h-8 text-white" aria-hidden="true" />
-              <span className="text-xl font-bold text-white">Kelvin Carter</span>
+              <span className="text-xl font-bold text-white">Yuki Mori</span>
             </Link>
             <p className="text-sm text-gray-400">
               Full-Stack Developer based in Warsaw, Poland.
@@ -44,7 +44,7 @@ const Footer = () => {
                 <a
                   href="mailto:code.yukimori.dev@gmail.com"
                   className="text-sm text-gray-400 hover:text-white transition-colors flex items-center gap-2"
-                  aria-label="Email Kelvin Carter"
+                  aria-label="Email Yuki Mori"
                 >
                   <Mail className="w-4 h-4" aria-hidden="true" />
                   yukimori.dev@gmail.com
@@ -54,7 +54,7 @@ const Footer = () => {
                 <a
                   href="tel:+916296554939"
                   className="text-sm text-gray-400 hover:text-white transition-colors flex items-center gap-2"
-                  aria-label="Call Kelvin Carter"
+                  aria-label="Call Yuki Mori"
                 >
                   <Phone className="w-4 h-4" aria-hidden="true" />
                   +916296554939
@@ -140,14 +140,14 @@ const Footer = () => {
         <div className="border-t border-white/10 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-sm text-gray-400">
-              © {currentYear} Kelvin Carter. All rights reserved.
+              © {currentYear} Yuki Mori. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <span className="text-sm text-gray-400 flex items-center gap-2">
                 <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 32 32" aria-hidden="true">
                   <path d="M12 1L24 22H0L12 1Z" />
                 </svg>
-                Kelvin's Portfolio
+                Yuki's Portfolio
               </span>
             </div>
           </div>

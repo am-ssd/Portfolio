@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { Code2, Briefcase, GraduationCap, Globe } from "lucide-react";
 import { ScrollAnimation } from "@/components/ScrollAnimation";
 import profileImg from "@/assets/profile/profile.jpg";
-import cvPdf from "@/assets/files/cv_pdf/Kelvin_Carter(CV).pdf";
+import cvPdf from "@/assets/files/cv_pdf/Yuki_Carter(CV).pdf";
 
 const About = () => {
   const achievements = [
@@ -46,7 +46,7 @@ const About = () => {
           <div className="aspect-square overflow-hidden rounded-2xl">
             <img
               src={profileImg}
-              alt="Kelvin Carter"
+              alt="Yuki Mori"
               className="w-full h-full object-cover hover:scale-105 transition-transform duration-500"
             />
           </div>

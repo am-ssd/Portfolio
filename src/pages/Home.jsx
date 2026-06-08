@@ -12,7 +12,7 @@ import {
 import { Link } from "react-router-dom";
 import { useState } from "react";
 import useSWR from "swr";
-import cvPdf from "@/assets/files/cv_pdf/Kelvin_Carter(CV).pdf";
+import cvPdf from "@/assets/files/cv_pdf/Yuki_Carter(CV).pdf";
 
 const fetcher = (url) => fetch(url).then((res) => res.json());
 
@@ -68,7 +68,7 @@ const Home = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          Kelvin Carter
+          Yuki Mori
         </motion.h1>
         <motion.h1
           className="text-2xl sm:text-4xl md:text-6xl font-bold mb-4 sm:mb-6 relative tracking-tighter"

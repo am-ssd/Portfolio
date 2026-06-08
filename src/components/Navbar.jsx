@@ -34,7 +34,7 @@ const Navbar = () => {
             {/* Logo */}
             <Link to="/" className="flex items-center space-x-3">
               <Code2 className="w-8 h-8 text-white" aria-hidden="true" />
-              <span className="text-xl font-bold text-white">Kelvin</span>
+              <span className="text-xl font-bold text-white">Yuki</span>
             </Link>
 
             {/* Desktop Navigation */}

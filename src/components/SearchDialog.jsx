@@ -7,7 +7,7 @@ const searchData = [
     title: 'Home',
     description: 'Go to the welcome page',
     path: '/',
-    keywords: ['home', 'cv', 'resume', 'start', 'welcome', 'portfolio', 'niladri', 'Kelvin Carter', 'niladri1', 'software developer', 'full stack developer', 'mern stack', 'web developer'],
+    keywords: ['home', 'cv', 'resume', 'start', 'welcome', 'portfolio', 'niladri', 'Yuki Mori', 'niladri1', 'software developer', 'full stack developer', 'mern stack', 'web developer'],
   },
   {
     title: 'About',
