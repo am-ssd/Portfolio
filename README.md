@@ -17,7 +17,7 @@
 
 <br/>
 
-<!-- <img src="https://niladri1.vercel.app/og-image.png" alt="Yuki Mori Portfolio Preview" width="80%" style="border-radius: 12px;" /> -->
+<!-- <img src="https://yukiportfolio-rho.vercel.app/og-image.png" alt="Yuki Mori Portfolio Preview" width="80%" style="border-radius: 12px;" /> -->
 
 </div>
 
@@ -114,10 +114,10 @@ A modern, fully responsive personal portfolio built with **React 18 + Vite 5** a
 
 ```bash
 # Clone the repository
-git clone https://github.com/niladri-1/niladri-1/Personal-portfolio
+git clone https://github.com/am-ssd/portfolio
 
 # Navigate to project
-cd Personal-portfolio
+cd yuki-portfolio
 
 # Install dependencies
 npm install
@@ -175,7 +175,7 @@ This portfolio is fully SEO-optimized:
 
 [![Email](https://img.shields.io/badge/Email-yukimori.dev%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:yukimori.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yukimori-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yukimori)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yukimori.vercel.app-orange?style=for-the-badge&logo=vercel)](https://yukimori.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yukiportfolio-rho.vercel.app-orange?style=for-the-badge&logo=vercel)](https://yukiportfolio-rho.vercel.app/)
 
 </div>
 
