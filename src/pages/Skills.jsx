@@ -102,7 +102,7 @@ const skills = [
     items: [
       { name: "AI Saas Platforms", },
       { name: "AI API Integration", },
-      { name: "RAG",},
+      { name: "Retrievel Automation Generation",},
     ],
   },
   {
