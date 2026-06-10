@@ -108,7 +108,7 @@ const Footer = () => {
             <h3 className="text-sm font-semibold text-white">Social</h3>
             <div className="flex space-x-4">
               <a
-                href="https://github.com/niladri-1"
+                href="https://github.com/am-ssd"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-white transition-colors"
