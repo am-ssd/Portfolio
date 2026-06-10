@@ -40,7 +40,7 @@ const pageMeta = {
   "/experience": {
     title: "Experience - Yuki Mori | Full Stack Developer",
     description:
-      "Professional experience of Yuki Mori including 3+ internships in full stack web development.",
+      "Professional experience of Yuki Mori including 3+ internships in full stack Web development.",
   },
   "/education": {
     title: "Education - Yuki Mori | B.Tech Computer Science",
