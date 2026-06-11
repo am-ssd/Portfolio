@@ -34,6 +34,9 @@ import {
   WindowsLogo,
   UbuntuLogo,
   LinuxLogo,
+  AILogo,
+  AIAPILogo,
+  RAGLogo
 } from "@/components/TechLogos";
 
 const skills = [
@@ -100,9 +103,9 @@ const skills = [
     category: "Artifical Inteligence",
     icon: <Terminal className="w-6 h-6" />,
     items: [
-      { name: "AI Saas Platforms", },
-      { name: "AI API Integration", },
-      { name: "Retrievel Automation Generation",},
+      { name: "AI Saas Platforms", icon: <AILogo /> },
+      { name: "AI API Integration", icon: <AIAPILogo /> },
+      { name: "Retrievel Automation Generation",icon: <RAGLogo /> },
     ],
   },
   {
