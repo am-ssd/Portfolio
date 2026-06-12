@@ -34,6 +34,7 @@ import {
   WindowsLogo,
   UbuntuLogo,
   LinuxLogo,
+  AILogo
 } from "@/components/TechLogos";
 
 const skills = [
@@ -100,7 +101,7 @@ const skills = [
     category: "Artifical Inteligence",
     icon: <Terminal className="w-6 h-6" />,
     items: [
-      { name: "AI Dev",  },
+      { name: "AI Dev", icon: <AILogo className="w-4 h-4"/> },
       { name: "AI API",  },
       { name: "RAG", },
     ],
