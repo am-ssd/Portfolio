@@ -103,9 +103,9 @@ const skills = [
     category: "Artifical Inteligence",
     icon: <Terminal className="w-6 h-6" />,
     items: [
-      { name: "AI Dev", icon: <AILogo className="w-4 h-4"/> },
-      { name: "AI API", icon: <AIAPILogo className="w-4 h-4"/> },
-      { name: "RAG",icon: <RAGLogo className="w-4 h-4"/> },
+      { name: "AI Dev",  },
+      { name: "AI API",  },
+      { name: "RAG", },
     ],
   },
   {
