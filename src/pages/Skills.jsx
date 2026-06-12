@@ -105,7 +105,7 @@ const skills = [
     items: [
       { name: "AI Dev", icon: <AILogo className="w-4 h-4"/> },
       { name: "AI API", icon: <AIAPILogo className="w-4 h-4"/> },
-      { name: "RAG", icon: <RAGLogo className="w-4 h-4"/>},
+      { name: "RAG",},
     ],
   },
   {
