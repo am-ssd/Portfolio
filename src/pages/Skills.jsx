@@ -34,9 +34,6 @@ import {
   WindowsLogo,
   UbuntuLogo,
   LinuxLogo,
-  AILogo,
-  AIAPILogo,
-  RAGLogo
 } from "@/components/TechLogos";
 
 const skills = [
@@ -141,7 +138,7 @@ const Skills = () => {
             <div className="bg-gray-800/50 p-6 rounded-lg backdrop-blur-sm hover:bg-gray-800/70 transition-all border border-white/5">
               <div className="flex items-center space-x-3 mb-6">
                 <div className="p-2 bg-white/10 rounded-lg">
-                  {skillGroup.icon}
+                  {skillGroup?.icon}
                 </div>
                 <h3 className="text-lg font-semibold">{skillGroup.category}</h3>
               </div>
